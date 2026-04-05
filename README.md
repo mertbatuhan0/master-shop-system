@@ -17,4 +17,4 @@ In this project, I focused on applying advanced programming concepts:
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/mertbatuhan0/MasterShopSystem.git](https://github.com/mertbatuhan0/MasterShopSystem.git)
+   git clone [https://github.com/mertbatuhan0/MasterShopSystem.git]
